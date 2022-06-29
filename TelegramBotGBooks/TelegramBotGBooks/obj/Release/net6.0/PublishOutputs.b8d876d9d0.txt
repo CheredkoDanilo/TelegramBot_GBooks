@@ -1,0 +1,10 @@
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\TelegramBotGBooks.exe
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\TelegramBotGBooks.dll
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\TelegramBotGBooks.deps.json
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\TelegramBotGBooks.runtimeconfig.json
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\TelegramBotGBooks.pdb
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.dll
+C:\Users\chere\source\repos\TelegramBotGBooks\TelegramBotGBooks\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.Extensions.Polling.dll
