@@ -145,6 +145,7 @@ namespace TelegramBotGBooks
             if (cmessage == "AuthorNameBooks" && pmessage.Text != "AuthorNameBooks" && message.Text != "AuthorNameBooks")
             {
                 await method.AuthorNameBooks(botClient, message, pmessage.Text, message.Text);
+                message.Text = "AuthorNameBooks";
                 return;
             }
 
